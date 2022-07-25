@@ -2,7 +2,7 @@
 
 ### A winning solution for the Takshak '21 Ishana (Computer Vision Challenge) organized by RoboISM, IIT(ISM) Dhanbad.
 
-## Presentation: [Link](/presentation.pdf)
+## Presentation: [Link](/Presentation.pdf)
 
 Team members : [Bhavya Dalal](https://github.com/dalalbhavya), [Tanishq Selot](https://github.com/tanishq150802), [Kshitij M Bhat](https://github.com/KshitijBhat)
 
